@@ -10,7 +10,7 @@ void BF(int graph[][20], int n, char start, int BFValue[], int BFPrev[]) {
         if(BFValue[i] != -1){
             step0 = false;
             break;
-        } 
+        }
     }
     if (step0 == true) {        // nếu là step 0 thì 
         BFValue[start_vertex] = 0;      // gán giá trị của đỉnh bắt đầu bằng 0
