@@ -1,0 +1,3 @@
+D:/BKHOA/DiscreteStructure/cmake-build-debug/CMakeFiles/Clion101.dir
+D:/BKHOA/DiscreteStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BKHOA/DiscreteStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
